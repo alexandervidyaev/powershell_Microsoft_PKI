@@ -1,4 +1,4 @@
-#prerequisites
+#Edit variables
 $RootHostname = "root"
 $IpRootCA = "10.7.160.50"
 $CACommonName = "RootCA"
